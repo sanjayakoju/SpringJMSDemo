@@ -1,0 +1,10 @@
+First of all need to download artemis Active MQ zip file
+▪ cd bin to artemis
+▪ artemis create cs544broker
+▪ Username: ea
+▪ Password: cs544
+▪ .\cs544broker\bin\artemis run
+▪ HTTP Server started at http://localhost:8161
+▪ localhost:8161
+▪ Management Console
+▪ artemis stop
