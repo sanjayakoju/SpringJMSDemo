@@ -1,6 +1,6 @@
 package com.ea.cs544.springjmsdemo.controller;
 
-import com.ea.cs544.springjmsdemo.Student;
+import com.ea.cs544.springjmsdemo.model.Student;
 import com.ea.cs544.springjmsdemo.sender.Sender;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

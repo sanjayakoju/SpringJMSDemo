@@ -1,6 +1,6 @@
 package com.ea.cs544.springjmsdemo.receiver;
 
-import com.ea.cs544.springjmsdemo.Student;
+import com.ea.cs544.springjmsdemo.model.Student;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
 

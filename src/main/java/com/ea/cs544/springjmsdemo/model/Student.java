@@ -1,4 +1,4 @@
-package com.ea.cs544.springjmsdemo;
+package com.ea.cs544.springjmsdemo.model;
 
 import java.io.Serializable;
 
